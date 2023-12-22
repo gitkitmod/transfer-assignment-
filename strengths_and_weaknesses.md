@@ -3,3 +3,4 @@
 - Git is free and open-source.
 # Weaknesses
 - Binary files can be difficult to handle for git.
+- Merging conflicts are hard to handle via the git CLI.
